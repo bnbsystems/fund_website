@@ -21,7 +21,7 @@
   "dependencies": {
     "@lekoarts/gatsby-theme-cara": "^3.0.5",
     "@parcel/config-default": "^2.3.2",
-    "gatsby": "^4.9.3",
+    "gatsby": "^4.25.7",
     "gatsby-cli": "^4.9.1",
     "gatsby-parcel-config": "^0.0.1",
     "gatsby-plugin-gatsby-cloud": "^4.0.0",
