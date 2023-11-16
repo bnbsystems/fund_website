@@ -21,11 +21,11 @@
   "dependencies": {
     "@lekoarts/gatsby-theme-cara": "^3.0.5",
     "@parcel/config-default": "^2.3.2",
-    "gatsby": "^4.9.3",
+    "gatsby": "^5.12.9",
     "gatsby-cli": "^4.9.1",
     "gatsby-parcel-config": "^0.0.1",
     "gatsby-plugin-gatsby-cloud": "^4.0.0",
-    "gatsby-plugin-manifest": "^4.0.0",
+    "gatsby-plugin-manifest": "^5.12.3",
     "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.22",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
